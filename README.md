@@ -1,12 +1,10 @@
 <!-- Encabezado con Banner -->
 <p align="center">
-  <img src="https://github.com/GaleCarlos/GaleCarlos/assets/tu-banner.png" alt="Banner Carlos Jimenez" style="width:100%;">
+  <img src="https://github.com/GaleCarlos/GaleCarlos/blob/main/Black%20Minimalist%20Linkedin%20Banner.png" alt="Carlos Gale Banner" />
 </p>
-
-<h1 align="center">Carlos Jimenez 👨‍💻</h1>
+<h1 align="center"> 👨‍💻</h1>
 
 <p align="center">
-  <b>Estudiante de Ingeniería de Sistemas</b> | <b>Técnico en Multimedia</b> <br>
   Desarrollo Web • Diseño UI/UX • Proyectos Educativos • Software Personalizado
 </p>
 
