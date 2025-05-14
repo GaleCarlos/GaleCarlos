@@ -57,7 +57,7 @@
 ## 📫 Contacto Profesional
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
-📧 **Correo:** carlos@email.com
+📧 **Correo:** carlosjimenezdeveloper@gmail.com
 
 ---
 
