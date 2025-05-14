@@ -30,8 +30,12 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
 
-### 🛠️ Herramientas y Frameworks
+### ⚙️ Entornos y Frameworks
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=for-the-badge)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
@@ -40,16 +44,7 @@
 
 ---
 
-## 🌟 Proyectos Destacados
 
-| Proyecto | Descripción | Tecnologías |
-|---------|-------------|-------------|
-| [🛍️ Shopping Day](https://github.com/GaleCarlos/shopping-day) | Tienda virtual con carrito, productos y diseño limpio. | HTML, CSS, JavaScript |
-| [📚 Biblioteca](https://github.com/GaleCarlos/biblioteca) | Organizador básico de libros para entornos educativos. | HTML, CSS |
-| [🏋️‍♂️ Sistema de Gimnasio](https://github.com/GaleCarlos/sistema-gimnasio) | Gestión de clases, reservas y usuarios. | PHP, MySQL |
-| [🧠 App Cognitiva](https://github.com/GaleCarlos/ejercicios-educativos) *(en progreso)* | Juegos y ejercicios para personas mayores. | JavaScript, HTML, CSS |
-
----
 
 ## 📈 Estadísticas de GitHub
 
